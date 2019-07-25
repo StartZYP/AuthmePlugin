@@ -1,0 +1,4 @@
+name: authmeplugin
+main: com.github.mc.authmeplugin
+version: 1.0
+commands:
