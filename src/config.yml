@@ -1,7 +1,9 @@
 mysql:
   url: "jdbc:mysql://localhost:3306/"
+  database: database
   user: root
   password: asd123456
   table: hehe
-username: username
-time: time
+  time: time
+  username: username
+Msg: "gaegasdsaff"
